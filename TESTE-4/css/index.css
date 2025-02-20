@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #82dbff;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 3rem;
+    color: #1f3850;
+    text-align: center;
+    margin-top: 4%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+    color: #07213a;
+    text-align: center;
+    margin-top: 2%;
+}
+iframe{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3%;
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 0%;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 3rem;
+    color: #1f3850;
+    text-align: center;
+    margin-top: 4%;
+}
